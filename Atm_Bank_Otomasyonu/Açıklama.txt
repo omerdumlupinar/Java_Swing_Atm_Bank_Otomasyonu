@@ -1,0 +1,15 @@
+
+XAMPP programını aşağıdaki linkten indirebilirsiniz
+
+https://www.apachefriends.org/download.html
+
+
+atm_otomasyon.sql dosyasını içe akratmak için bu adınları izleyin
+
+-kurulumunu yaptıktan sora xampp kontol panelini açın
+-Apache ve Mysql seçeneklerine start deyin
+-Açıldıktan sonra Mysql Admin butonuna basın
+-phpMyAdmin sayfası açıldıktan sonra içe aktar butonun basın
+-çıkan sayfada dosya seç butonuna tıklayın 
+-atm_otomasyon.sql dosyanızı secin ve altta git butonuna tıklayın
+
